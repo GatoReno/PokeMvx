@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.11
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeMvx", "PokeMvx\PokeMvx.csproj", "{BDBC7756-D209-4171-9EBF-E9FF32DFF572}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeMvx.Core", "PokeMvx\PokeMvx.Core.csproj", "{BDBC7756-D209-4171-9EBF-E9FF32DFF572}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeMvx.Droid", "PokeMvx.Droid\PokeMvx.Droid.csproj", "{74E4F411-F2BC-4FEB-A457-5631C92FA0CF}"
 EndProject

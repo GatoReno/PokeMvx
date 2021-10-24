@@ -32,17 +32,45 @@
       "frameworks": {
         "monoandroid11.0": {
           "dependencies": {
+            "Acr.UserDialogs": {
+              "target": "Package",
+              "version": "[7.2.0.534, )"
+            },
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MvvmCross.DroidX.RecyclerView": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Sinks.Xamarin": {
+              "target": "Package",
+              "version": "[0.2.0.64, )"
+            },
             "Xamarin.AndroidX.AppCompat": {
               "target": "Package",
-              "version": "[1.2.0.5, )"
+              "version": "[1.3.1.3, )"
+            },
+            "Xamarin.AndroidX.CardView": {
+              "target": "Package",
+              "version": "[1.0.0.11, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.6.1, )"
+              "version": "[1.7.0, )"
             },
             "Xamarin.Google.Android.Material": {
               "target": "Package",
-              "version": "[1.0.0.1, )"
+              "version": "[1.4.0.4, )"
             }
           }
         }
