@@ -8,7 +8,7 @@ namespace PokeMvx.Droid
     [Activity(
         Label = "@string/app_name"
         , MainLauncher = true
-        , Theme = "@style/AlaskaTheme.LaunchScreen"
+        , Theme = "@style/PokeMvx.SplashScreen"
         , NoHistory = true
         , ScreenOrientation = ScreenOrientation.Portrait)]
     public class SplashScreen : MvxSplashScreenActivity

@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{74E4F411-F2BC-4FEB-A457-5631C92FA0CF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PokeMvx.Droid/SplashScreen.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PokeMvx.Droid/Properties/AndroidManifest.xml">
     <Files>
       <File FileName="../../.nuget/packages/mvvmcross/8.0.2/readme.txt" Line="1" Column="1" IsPinned="True" />
       <File FileName="PokeMvx.Droid/MainActivity.cs" Line="3" Column="19" />
@@ -12,6 +12,7 @@
       <File FileName="PokeMvx.Droid/SplashScreen.cs" Line="21" Column="1" />
       <File FileName="PokeMvx.Droid/Resources/values/styles.xml" Line="1" Column="1" />
       <File FileName="PokeMvx.Droid/Resources/values/strings.xml" Line="1" Column="1" />
+      <File FileName="PokeMvx.Droid/Properties/AndroidManifest.xml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +21,10 @@
             <Node name="PokeMvx.Core" expanded="True">
               <Node name="ViewModels" expanded="True" />
             </Node>
-            <Node name="PokeMvx.Droid" expanded="True" selected="True">
+            <Node name="PokeMvx.Droid" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="AndroidManifest.xml" selected="True" />
+              </Node>
               <Node name="Resources" expanded="True">
                 <Node name="layout" expanded="True" />
                 <Node name="values" expanded="True" />
@@ -33,7 +37,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.PokeMvx.Droid AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" FirstBuild="True" PreferredExecutionTarget="Android.pixel_3a_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.PokeMvx.Droid AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pixel_3a_pie_9_0_-_api_28" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
